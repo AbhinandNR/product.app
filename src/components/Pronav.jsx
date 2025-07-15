@@ -28,9 +28,7 @@ const Pronav = () => {
                             <li class="nav-item">
                                 <Link class="nav-link" to="/Delete">Delete Product</Link>
                             </li>
-                            <li class="nav-item">
-                                <Link class="nav-link disabled" aria-disabled="true">Disabled</Link>
-                            </li>
+                            
                         </ul>
                     </div>
                 </div>
